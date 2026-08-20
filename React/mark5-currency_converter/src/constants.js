@@ -1,0 +1,22 @@
+// Fallback list of common currencies
+export const currencyList = [
+    "usd",
+    "eur",
+    "gbp",
+    "jpy",
+    "aud",
+    "cad",
+    "chf",
+    "cny",
+    "inr",
+    "nzd",
+    "sgd",
+    "hkd",
+    "nok",
+    "sek",
+    "mxn",
+    "brl",
+    "zar",
+    "aed",
+    "sar",
+];
